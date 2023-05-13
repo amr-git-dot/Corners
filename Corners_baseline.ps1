@@ -40,7 +40,7 @@ if (!($baseline)) {
     exit
 }
 
-Write-Output "Persist_baseline Plugin Running(the green is in your baseline)...`n"
+Write-Output "Corners_baseline Plugin Running(the green is in your baseline)...`n"
 
 $file2 = (get-content $target)
 $file1 = (get-content $baseline)
