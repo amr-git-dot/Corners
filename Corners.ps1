@@ -1,6 +1,5 @@
 $ErrorActionPreference = "SilentlyContinue"
 
-Write-Output "Corners Plugin Running..."
 
 function helpmsg { 
     write-output "help message"
@@ -19,6 +18,7 @@ $result = Join-Path -Path "." -ChildPath "Corners_$currentDate.txt"
 
 $admin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
 
+Write-Output "Corners Plugin Running... Output will be saved to file $result"
 $seperator = "`n###################################################`n"
 
 
