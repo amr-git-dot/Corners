@@ -18,7 +18,7 @@ Corners is a PowerShell script that relies on Many techniques from `MITRE ATT&CK
 
 ## Example usages 
 
-You can use the tool in a suspected machine in your environment or hunting unknown malwares by quickly identifying deviation from a baseline.
+- You can use the tool in a suspected machine in your environment or hunting unknown malwares by quickly identifying deviation from a baseline.
 
-You can use the tool in your behavioral analysis (malware analysis) to quickly identify the persistence mechanism.
+- You can use the tool in your behavioral analysis (malware analysis) to quickly identify the persistence mechanism.
 ![Error loading Image](Images/Screen.png)
