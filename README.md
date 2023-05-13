@@ -2,9 +2,9 @@
 
 ## Overview
 
-Corners is a powershell script that relaies on Many techniques from `MITRE ATT&CK` to Collect Persistet executables in the windows machine.
+Corners is a PowerShell script that relies on Many techniques from `MITRE ATT&CK` to Collect persistent executables in the Windows machine.
 
-`Also` the baseline tool included can compare two shoots from the tool to get you just the change in the state from persistence prespective(behavioral analysis). 
+`Also` the baseline tool included can compare two shoots from the tool to get you just the change in the state from a persistence perspective (behavioral analysis). 
 
 
 
@@ -18,7 +18,7 @@ Corners is a powershell script that relaies on Many techniques from `MITRE ATT&C
 
 ## Example usages 
 
-You can use the tool in suspected machine in your environment or hunting unknown malwares by quickly identifing deviation from a base line.
+You can use the tool in a suspected machine in your environment or hunting unknown malwares by quickly identifying deviation from a baseline.
 
-You can use the tool in your behavioural analysis (malware analysis) to quicly identify persistence mechanism.
+You can use the tool in your behavioral analysis (malware analysis) to quickly identify the persistence mechanism.
 ![Error loading Image](Images/Screen.png)
