@@ -1,0 +1,16 @@
+HKCU:\Software\Microsoft\Windows\CurrentVersion\Run - Mittre Technique number T1547.001
+HKCU:\Software\Microsoft\Windows\CurrentVersion\RunOnce - Mittre Technique number T1547.001
+HKLM:\Software\Microsoft\Windows\CurrentVersion\Run - Mittre Technique number T1547.001
+HKLM:\Software\Microsoft\Windows\CurrentVersion\RunOnce - Mittre Technique number T1547.001
+HKLM:\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce - Mittre Technique number T1547.001
+HKCU:\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce - Mittre Technique number T1547.001
+HKLM:\Software\Microsoft\Windows\CurrentVersion\RunServices - Mittre Technique number T1547.001
+HKCU:\Software\Microsoft\Windows\CurrentVersion\RunServices - Mittre Technique number T1547.001
+HKLM:\System\CurrentControlSet\Services\W32Time\TimeProviders - Mittre Technique number  T1547.003
+HKLM:\SYSTEM\CurrentControlSet\Control\Print\Monitors - Mittre Technique number  T1547.010
+HKLM:\SYSTEM\ControlSet001\Control\Print\Environments\Windows x64\Print Processors\winprint - Mittre Technique number  T1547.012
+HKLM:\SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x64\Print Processors\winprint - Mittre Technique number  T1547.012
+HKLM:\SYSTEM\CurrentControlSet\Control\Print\Environments\Windows x86\Print Processors\winprint - Mittre Technique number  T1547.012
+HKLM:\SYSTEM\CurrentControlSet\Control\Print\Environments\Windows NT x86\Print Processors\winprint - Mittre Technique number  T1547.012
+HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom - Mittre Technique number T1546.011
+HKLM:\SOFTWARE\Microsoft\Netsh - Mittre Technique number T1546.007

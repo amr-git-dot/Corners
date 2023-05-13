@@ -1,0 +1,13 @@
+HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Winlogon - Userinit - Mittre Technique number T1547.004
+HKLM:\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer - Run - Mittre Technique number T1547.001
+HKCU:\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer - Run - Mittre Technique number T1547.001
+HKLM:\System\CurrentControlSet\Control\Session Manager - BootExecute - Mittre Technique number T1547.001
+HKLM:\SYSTEM\CurrentControlSet\Control\Lsa - Authentication Packages - Mittre Technique number T1547.002
+HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Winlogon - shell - Mittre Technique number  T1547.004
+HKCU:\Software\Microsoft\Windows NT\CurrentVersion\Winlogon - shell - Mittre Technique number  T1547.004
+HKLM:\SYSTEM\CurrentControlSet\Control\Lsa - Security Packages - Mittre Technique number T1547.005
+HKLM:\SYSTEM\CurrentControlSet\Control\Lsa\OSConfig - Security Packages - Mittre Technique number T1547.005
+HKCU:\Environment - UserInitMprLogonScript - Mittre Technique number T1037.001
+HKLM:\System\CurrentControlSet\Control\Session Manager\ - AppCertDlls - Mittre Technique number T1546.009
+HKLM:\Software\Microsoft\Windows NT\CurrentVersion\Windows - AppInit_DLLs - Mittre Technique number T1546.010 
+HKLM:\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows - AppInit_DLLs - Mittre Technique number T1546.010 
