@@ -1,6 +1,6 @@
 $ErrorActionPreference = "SilentlyContinue"
 
-Write-Output "Persist Plugin Running..."
+Write-Output "Corners Plugin Running..."
 
 function helpmsg { 
     write-output "help message"
