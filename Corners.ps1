@@ -15,7 +15,7 @@ if ($args -contains "-h") {
 
 $currentDate = Get-Date   -Format "yyyyMMdd_HHmm"
 
-$result = Join-Path -Path "." -ChildPath "Persist_$currentDate.txt"
+$result = Join-Path -Path "." -ChildPath "Corners_$currentDate.txt"
 
 $admin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
 
